@@ -1,1 +1,1 @@
-<view><navbar vue-id="076aba62-1" bind:__l="__l"></navbar></view>
+<view><navbar vue-id="076aba62-1" bind:__l="__l"></navbar><block wx:for="{{100}}" wx:for-item="item" wx:for-index="index"><view class="cc">{{''+index+'呵呵呵'}}</view></block></view>
