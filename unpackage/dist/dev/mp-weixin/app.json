@@ -37,6 +37,6 @@
       }
     ]
   },
-  "usingComponents": {},
-  "sitemapLocation": "sitemap.json"
+  "permission": {},
+  "usingComponents": {}
 }

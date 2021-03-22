@@ -1,6 +1,7 @@
 {
   "navigationStyle": "custom",
-  "navigationBarTitleText": "首页",
+  "navigationBarTextStyle": "white",
+  "scrollIndicator": "none",
   "usingComponents": {
     "navbar": "/components/navbar/navbar"
   }
