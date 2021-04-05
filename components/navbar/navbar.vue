@@ -4,9 +4,10 @@
 			<view :style="{height: statusHeight+'px'}"></view>
 			<view class="navabar-content" :style="{width:windowWidth+'px', height: navbarHeight+'px'}">
 				<view class="navbar-search">
-					<view class="navbar-search_icon">
+					<!-- <view class="navbar-search_icon">
 						<text class="iconfont icon-search"></text>
-					</view>
+					</view> -->
+					<uni-icons type="search" color="#555"></uni-icons>
 					<view class="navbar-search_text">搜索消息</view>
 				</view>
 			</view>

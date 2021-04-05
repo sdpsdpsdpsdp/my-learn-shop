@@ -7,8 +7,7 @@
 				"navigationBarTextStyle":"white",
 				"app-plus": {
 					"scrollIndicator": "none" //当前页面不显示滚动条
-				},
-				"scrollIndicator": "none"
+				}
 				}
 			},
 			{

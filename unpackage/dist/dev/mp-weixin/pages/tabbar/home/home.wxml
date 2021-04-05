@@ -1,1 +1,1 @@
-<view><navbar vue-id="076aba62-1" bind:__l="__l"></navbar><block wx:for="{{100}}" wx:for-item="item" wx:for-index="index"><view class="cc">{{''+index+'呵呵呵'}}</view></block></view>
+<view class="home"><navbar vue-id="076aba62-1" bind:__l="__l"></navbar><tab vue-id="076aba62-2" tabList="{{tabList}}" data-event-opts="{{[['^tabClick',[['tabClick']]]]}}" bind:tabClick="__e" bind:__l="__l"></tab><list vue-id="076aba62-3" tabList="{{tabList}}" bind:__l="__l"></list></view>

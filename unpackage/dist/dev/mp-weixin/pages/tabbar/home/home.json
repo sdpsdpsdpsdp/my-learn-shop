@@ -1,8 +1,9 @@
 {
   "navigationStyle": "custom",
   "navigationBarTextStyle": "white",
-  "scrollIndicator": "none",
   "usingComponents": {
-    "navbar": "/components/navbar/navbar"
+    "navbar": "/components/navbar/navbar",
+    "tab": "/components/tab/tab",
+    "list": "/components/list/list"
   }
 }
